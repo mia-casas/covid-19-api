@@ -1,0 +1,21 @@
+body{
+    background-image: linear-gradient(white 2%,rgb(250, 239, 224) 98%);
+    color:rgb(49, 46, 46);
+    margin: 25px;
+}
+
+h1, table{
+    text-align: center;
+}
+
+tr{
+    text-align: left;
+    border: 1px solid rgb(228, 225, 225);
+}
+
+#heading{
+    background-color: rgb(247, 223, 189);
+    height: 160px;
+    margin:0;
+    padding-top: 60px;
+}
